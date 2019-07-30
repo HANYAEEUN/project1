@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+        
+  <head>
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>my portfolio</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/product/">
+
+    <!-- Bootstrap core CSS -->
+<link href="/docs/4.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: center;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+      
+    
+    <!-- Custom styles for this template -->
+    <link href="product.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="site-header sticky-top py-1">
+  <div class="container d-flex flex-column flex-md-row justify-content-between">
+    <a class="py-2" href="#">
+    </a>
+    <a class="py-2 d-none d-md-inline-block text-warning" href="photo"
+">Photo</a>
+    <a class="py-2 d-none d-md-inline-block text-warning" href="#">Diary</a>
+    <a class="py-2 d-none d-md-inline-block text-warning" href="#">Music</a>
+    <a class="py-2 d-none d-md-inline-block text-warning" href="#">Daily</a>
+
+  </div>
+</nav>
+
+
+<div class="position-relative overflow-hidden p-0 m-md-0 text-center 
+            style="background-image: url('https://mblogthumb-phinf.pstatic.net/MjAxNzEyMjFfMjk0/MDAxNTEzODQ4MjgxODcz.mR_UJL5ugDeqTHUpKkJyUZ5eH-FE7ZuF5cPYtq2_sVog.5upyF-6_egnTQ41lVpgtlKYfSwnlOwLHZJdFEkuAooAg.PNG.hh4338/Tbl_01.png?type=w800'); text-white">
+  <div class="col-md-5 p-lg-5 mx-auto my-5">
+                                                                        
+    <h1 class="display-4 font-weight-normal">HYE<br>
+        Playground</h1>
+      <br>
+      <audio autoplay controls>
+    <source src="audio/Say Good Night.mp3" type="audio/mp3">
+</audio>
+
+      <br>
+      <br>
+    <p class="lead font-weight-normal">저의 자유공간입니다!
+      궁금한 점이 있다면 아래 버튼을 눌러주세요!</p>
+      <br>
+      <a class="btn btn-outline-secondary text-warning" href="https://ask.fm/account/wall">질문하기</a>
+  </div>
+  <div class="product-device shadow-sm d-none d-md-block"></div>
+  <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+</div>
